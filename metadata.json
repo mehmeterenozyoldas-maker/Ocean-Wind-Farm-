@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Wind Farm HMI 2030",
+  "description": "A speculative spatial computing interface for offshore wind farm management in 2030, featuring digital twins and multi-modal interaction.",
+  "requestFramePermissions": ["camera"]
+}
